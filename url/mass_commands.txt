@@ -3,7 +3,7 @@
 // @version      2.0
 // @description  ...
 // @author       K I N G S
-// @match https://*/*screen=overview_villages*
+// @match         https://*/*screen=overview_villages*
 // @grant window.focus
 // ==/UserScript==
 
