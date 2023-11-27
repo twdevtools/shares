@@ -7,4 +7,4 @@
 // @grant        window.focus
 // ==/UserScript==
 
-$.getScript('https://twdevtools.github.io/obfuscate/scripts/mass_commands.js
+$.getScript('https://twdevtools.github.io/obfuscate/scripts/mass_commands.js');
